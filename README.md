@@ -18,3 +18,14 @@ A modular Python CLI app to manage book inventory, track borrowings, and calcula
 * **Overdue Fine Calculation**: Automatically calculate late return penalties based on overdue days.
 * **Local Data Persistence**: Save all inventory and transaction records to JSON files without requiring external databases.
 
+## 4. Technologies & Tools Used
+* **Language**: Python 3.x
+* **Storage**: Local JSON files (no external database server needed)
+* **Testing**: Python `unittest` library
+* **Version Control**: Git & GitHub
+
+## 5. Installation & Setup
+1. **Clone the repository**:
+   ```bash
+   git clone [https://github.com/Swetank-](https://github.com/Swetank-)[your-username]/library-book-inventory.git
+   cd library-book-inventory
