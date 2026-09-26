@@ -30,10 +30,7 @@ A modular Python CLI app to manage book inventory, track borrowings, and calcula
    git clone https://github.com/Swetank-1/library-book-inventory.git
    cd library-book-inventory
 
-### How to fix it in GitHub:
-1. Click the pencil icon (edit) at the top right of your `README.md` file in GitHub.
-2. Replace section **5** with the clean snippet above.
-3. Scroll down and click **Commit changes**.  
+q  
 
    
 
