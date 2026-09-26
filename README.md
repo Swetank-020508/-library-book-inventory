@@ -30,7 +30,5 @@ A modular Python CLI app to manage book inventory, track borrowings, and calcula
    git clone https://github.com/Swetank-1/library-book-inventory.git
    cd library-book-inventory
 
-q  
-
    
 
